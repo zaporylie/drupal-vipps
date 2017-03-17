@@ -1,0 +1,7 @@
+name: commerce_vipps
+type: module
+description: Vipps by DNB payment gateway
+core: 8.x
+package: Commerce (contrib)
+dependencies:
+  - commerce_payment

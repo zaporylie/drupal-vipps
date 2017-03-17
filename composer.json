@@ -1,0 +1,14 @@
+{
+  "name": "drupal/commerce_vipps",
+  "type": "drupal-module",
+  "description": "Vipps by DNB payment gateway",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/commerce_vipps",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/commerce_vipps",
+    "source": "http://cgit.drupalcode.org/commerce_vipps"
+  },
+  "require": { }
+}
