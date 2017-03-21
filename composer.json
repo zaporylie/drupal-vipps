@@ -10,5 +10,8 @@
     "issues": "https://www.drupal.org/project/issues/commerce_vipps",
     "source": "http://cgit.drupalcode.org/commerce_vipps"
   },
-  "require": { }
+  "require": {
+    "zaporylie/vipps": "^0.4",
+    "php-http/guzzle6-adapter": "^1.1"
+  }
 }
